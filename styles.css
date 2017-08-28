@@ -1,0 +1,104 @@
+html {
+  text-shadow: 0 0 black;
+}
+
+body {
+  color: #666;
+}
+
+.photo-box {
+  overflow: hidden;
+  position: relative;
+  height: 250px;
+}
+
+.text-box {
+  text-align: left;
+  background: rgb(49, 49, 49);
+  color: rgb(255, 190, 90);
+}
+
+.photo-box img {
+  max-width: 100%;
+  height: auto;
+  min-height: 250px;
+}
+
+.photo-box aside {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 1em 0.5em;
+  color: white;
+  width: 100%;
+  font-size: 80%;
+  text-align: right;
+  background: rgba(12, 2, 2, 1) 90%;
+}
+
+.photo-box aside span {
+  color: #aaa;
+}
+
+.l-box {
+  padding: 2em;
+}
+
+.l-box-text-box {
+  color: rgb(255, 190, 98);
+}
+
+.text-box-head {
+  color: #fff;
+  padding-bottom: 0.2em;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 25px;
+}
+
+.text-box-subhead {
+  font-weight: normal;
+  letter-spacing:  0.1em;
+  text-transform: uppercase;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.photo-box-thin {
+  height: 250px;
+}
+
+.photo-box-background {
+  background: aqua;
+}
+
+.form-box {
+  text-align: center;
+  font-size: 120%;
+  border-bottom: 1px solid #eee;
+}
+
+.pure-button {
+  display: inline-block;
+  box-sizing: border-box;
+  line-height: normal;
+  overflow: visible;
+  white-space: nowrap;
+  background-color: #61B842;
+  color: white;
+  vertical-align: top;
+  font-size: 85%;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-radius: 4px;
+  margin: 0.3em;
+  zoom: 1;
+}
+
+.heading-about-me {
+  text-align: center;
+}
