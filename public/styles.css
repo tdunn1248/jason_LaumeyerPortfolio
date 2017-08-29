@@ -6,6 +6,9 @@ body {
   color: #666;
 }
 
+.header {
+  background: rgba(48,48,48, .5);
+}
 .photo-box {
   overflow: hidden;
   position: relative;
