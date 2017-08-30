@@ -19,4 +19,5 @@
   "homepage": "https://github.com/tdunn1248/jason_LaumeyerPortfolio#readme",
   "dependencies": {
     "express": "^4.15.4"
+  }
 }
