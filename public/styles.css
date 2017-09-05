@@ -132,6 +132,17 @@ textarea {
 
 .wrap-scroll-up {
   text-align: center;
+  display: flex;
+  text-decoration: none;
+  flex-direction: column;
+  max-width: 50px;
+  margin: 0 auto;
+  color: white;
+}
+
+.back-to-top {
+  text-decoration: none;
+  font-size: 75%;
 }
 
 .text-box-head {
